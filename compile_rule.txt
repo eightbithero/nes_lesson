@@ -1,0 +1,2 @@
+./ca65 hw.asm 
+./ld65 hw.o -v -C nes.cfg -o hw.nes
